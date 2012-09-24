@@ -29,4 +29,5 @@ $("img").click(function(){
 	// $("img").width(200);
 
 	});
-});
+}); 
+I was here.
